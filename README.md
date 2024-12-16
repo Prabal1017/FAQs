@@ -10,13 +10,21 @@ Welcome to the **FAQs SwiftUI App**! This app is designed to provide a seamless 
 
 ## Screenshots
 
-*(Include some screenshots here to showcase the app's interface)*
+View Questions
+
+![IMG_6792](https://github.com/user-attachments/assets/fe6ee0e3-e266-41be-9606-d41e68c4a305)
+
+Search Questions
+
+![IMG_6793](https://github.com/user-attachments/assets/90687531-6bec-4656-848a-ded8609d1cf7)
+
+
 
 ## How It Works
 
 1. **Viewing Questions**: Upon opening the app, you will see a list of frequently asked questions. 
 2. **Expanding Questions**: Tap on a question to reveal its answer. Tap again to collapse it.
-3. **Search**: Use the search bar at the top to filter questions based on your query.
+3. **Search**: Swipe down to use the search bar at the top to filter questions based on your query.
 
 ## Tech Stack
 
@@ -44,13 +52,8 @@ Welcome to the **FAQs SwiftUI App**! This app is designed to provide a seamless 
 
 ## Future Enhancements
 
-- Adding support for dynamic FAQs fetched from a backend.
 - Localization support for multiple languages.
 - Enhanced UI with animations and themes.
-
-## Contribution
-
-Contributions are welcome! Feel free to open an issue or submit a pull request if you have ideas for improvements or new features.
 
 ## License
 
@@ -58,4 +61,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to explore, use, and modify this app for your own projects. Happy coding!
+Feel free to explore, use this app for your own projects.
